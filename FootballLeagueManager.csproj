@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <Folder Include="ERDiagram\" />
+    <Folder Include="UI\" />
+    <Folder Include="Services\" />
     <Folder Include="SQLQueries\" />
   </ItemGroup>
 
@@ -22,6 +24,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Spectre.Console" Version="0.54.0" />
   </ItemGroup>
 
 </Project>
