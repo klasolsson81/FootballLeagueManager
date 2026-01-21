@@ -6,6 +6,14 @@
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet)
 
 Ett kraftfullt och visuellt tilltalande managementsystem för fotbollsligor, byggt med fokus på **Clean Code**, **SOLID-principer** och avancerad **SQL Server**-logik. Applikationen hanterar allt från spelarstatistik och löneförhandlingar till historiska transferloggar och systemaudit.
+<img width="2816" height="1536" alt="erd" src="https://github.com/user-attachments/assets/6d46a04a-d5b9-4f64-a8ab-eb3041e30744" />
+<img width="1108" height="628" alt="image" src="https://github.com/user-attachments/assets/294eaa03-f06a-4991-a4a1-0b9c1a468b8c" />
+<img width="1111" height="623" alt="image" src="https://github.com/user-attachments/assets/efa09fa2-77fc-4f64-a899-ed54fb63ead9" />
+<img width="1109" height="320" alt="image" src="https://github.com/user-attachments/assets/356d52da-9cef-45c3-9fd8-a38e91744c0b" />
+
+
+
+
 
 ---
 
@@ -77,4 +85,4 @@ Projektet är utvecklat för att demonstrera avancerad kunskap inom databastekni
 * **UX i Konsolen**: Interaktivt gränssnitt med Spectre.Console som inkluderar felhantering och logisk sortering.
 
 ---
-*Detta projekt är en del av utbildningen till .NET-utvecklare 2026.*
+*Detta projekt är en del av utbildningen till .NET-utvecklare 2025-2027.*
