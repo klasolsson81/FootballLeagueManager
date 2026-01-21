@@ -9,8 +9,6 @@
 
   <ItemGroup>
     <Folder Include="ERDiagram\" />
-    <Folder Include="UI\" />
-    <Folder Include="Services\" />
     <Folder Include="SQLQueries\" />
   </ItemGroup>
 
